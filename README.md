@@ -2,7 +2,7 @@
 <h2 align="center"> Hi, I'm Angeira Quiles! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <h3 align="center"><a href="mailto:4985@holbertonstudents.com"><img src="https://img.shields.io/badge/EMAIL-red?style=for-the-badge"></a>
 <a href='./SoftwareDEvResume.pdf'><img src="https://img.shields.io/badge/RESUME-blue?style=for-the-badge"></a></h3>
-<p align="center"><em>Full-time Student at <a href="http://www.unb.br">Holberton School</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Soon to be hire!<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p align="center"><em>Full-time Student at <a href="http://www.unb.br">Holberton School from Puerto Rico 🇵🇷</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Soon to be hire!<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 <img align="right" alt="coding" width="400" src="https://c.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
@@ -14,8 +14,12 @@ const angeira = {
   education: "Full Stack Software Developer student",
   otherAlias: "Full Stack Developer",
   codesIn: ["Javascript", "HTML", "CSS", "Python", "Bash"],
-  currentlylearning: ["DevOps"],
+  currentlylearning: ["DevOps", "React"],
   toolsUsing: ["Git", "Flask", "SQLAlquemy", "FastAPI"],
+  currentlyworking: ["ProjectPorfolio"],
+  askmeabout: ["C", "GoogleApps"],
+  funfact: ["loves to coffee shop hunting"],
+  
   
 availableForHire: true
 }
@@ -27,7 +31,6 @@ availableForHire: true
  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> </a>
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://cutt.ly/nDqbNYR" alt="c" width="50" height="50"/> </a> 
                                                                                                                                                       <img src="https://cutt.ly/WDqbKiu" alt="javascript" width="50" height="50"/> </a>
- <img src ="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/1024px-Ruby_logo.svg.png" alt="ruby" width="45" height="45">
  <img src="https://cutt.ly/hDqbvXY" alt="css3" width="50" height="50"/> </a>
 <a href="https://www.vagrantup.com/" target="_blank"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> </a> <a href="https://www.nginx.com" target="_blank">
@@ -44,7 +47,7 @@ availableForHire: true
 <img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="50" height="50">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://cutt.ly/2DqbVgb" alt="git" width="50" height="50"/> </a>
- <img alt="Figma" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
+
 
 
 
