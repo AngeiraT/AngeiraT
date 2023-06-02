@@ -6,6 +6,20 @@
 </em></p>
 <img align="right" alt="coding" width="400" src="https://c.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
+👋 Hello there! I'm Angeira, a recently graduated software engineer with a passion for learning and exploring the exciting world of machine learning. Currently on the lookout for job opportunities to apply my skills and contribute to innovative projects.
+
+☕️ When I'm not immersed in code, you can find me on a delightful coffee shop hunt, discovering new cozy corners while sipping a cup of freshly brewed coffee. The aroma and ambiance fuel my creativity and inspire me to think outside the box.
+
+🌐 Networking is my superpower! I thoroughly enjoy connecting with like-minded professionals, exchanging ideas, and building meaningful relationships. I firmly believe that collaboration is the key to unlocking limitless possibilities.
+
+📚 My journey in machine learning has just begun, and I'm eager to dive deeper into this fascinating field. I believe in leveraging the power of data and algorithms to solve real-world problems and make a positive impact on society.
+
+🔧 Proficient in various programming languages and frameworks, I'm constantly seeking opportunities to expand my technical expertise and grow as a software engineer. I'm a dedicated learner, always staying up-to-date with the latest industry trends and advancements.
+
+✨ If you're interested in working together or simply want to connect, feel free to reach out. Let's grab a cup of coffee and discuss how we can create something amazing together!
+
+Keep coding, sipping, and networking! ☕️🌐
+
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
