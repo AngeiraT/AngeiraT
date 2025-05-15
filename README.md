@@ -2,11 +2,11 @@
 <h2 align="center"> Hi, I'm Angeira Quiles! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <h3 align="center"><a href="mailto:thaispur04@hotmail.com"><img src="https://img.shields.io/badge/EMAIL-red?style=for-the-badge"></a>
 <a href='./SoftwareDEvResume.pdf'><img src="https://img.shields.io/badge/RESUME-blue?style=for-the-badge"></a></h3>
-<p align="center"><em>Full-time Student at <a href="http://www.unb.br">Holberton School from Puerto Rico 🇵🇷</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Soon to be hire!<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p align="center"><em>Graduated at <a href="http://www.unb.br">Holberton School from Puerto Rico 🇵🇷</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Continuing to learn!<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 <img align="right" alt="coding" width="400" src="https://c.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
-👋 Hello there! I'm Angeira, with two years of experience in large-scale software developmnet, specializing in building high-performance web aplications with the latest in AI integrations, with a passion for learning and exploring the exciting world of machine learning. Continuing to learn and apply my skills and contribute to innovative projects.
+👋 Hello there! I'm Angeira, with 2+ years of experience in large-scale software developmnet, specializing in building high-performance web aplications with the latest in AI integrations, with a passion for learning and exploring the exciting world of machine learning. Continuing to learn and apply my skills and contribute to innovative projects.
 
 ☕️ When I'm not immersed in code, you can find me on a delightful coffee shop hunt, discovering new cozy corners while sipping a cup of freshly brewed coffee. The aroma and ambiance fuel my creativity and inspire me to think outside the box.
 
